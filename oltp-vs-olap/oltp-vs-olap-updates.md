@@ -36,7 +36,7 @@ Updates are expensive and discouraged.
 
 ## Mental Model Shift
 
-![OLTP vs OLAP Mental Model](images/oltp-vs-olap-mental-model.png)
+![OLTP vs OLAP Mental Model](../images/oltp-vs-olap-mental-model.png)
 
 ---
 
