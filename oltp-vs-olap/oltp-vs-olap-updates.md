@@ -55,4 +55,3 @@ You are likely using OLTP thinking in an OLAP system.
 
 Databases are opinionated tools.
 Performance comes from respecting those opinions.
-````
