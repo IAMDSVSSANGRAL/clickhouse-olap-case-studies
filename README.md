@@ -43,6 +43,12 @@ clickhouse-olap-case-studies/
 
 ├── README.md
 
+├── images/
+
+│ ├── README.md
+
+│ └── oltp-vs-olap-mental-model.png
+
 ├── schema-evolution/
 
 │ ├── README.md
