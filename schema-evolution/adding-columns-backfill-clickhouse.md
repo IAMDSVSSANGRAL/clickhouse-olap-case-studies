@@ -118,3 +118,10 @@ In OLTP systems:
 Applying the wrong model leads to instability.
 
 ---
+
+## Conclusion
+
+Understanding the database philosophy is more important
+than reusing familiar patterns.
+
+ClickHouse rewards immutable, aggregation-first designs
