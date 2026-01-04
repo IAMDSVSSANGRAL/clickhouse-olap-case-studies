@@ -55,3 +55,12 @@ clickhouse-olap-case-studies/
 
 └── LICENSE
 
+
+---
+
+## Disclaimer
+
+All schemas, examples, and queries are generalized and anonymized.
+No proprietary data or business logic is shared.
+
+
